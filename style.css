@@ -1,0 +1,90 @@
+body {
+ margin: 0;
+ padding: 0;
+
+}
+.intro {
+    text-align: center;
+    margin-top: 76px;
+    padding: 17px;
+}
+/* .container{
+
+} */
+.text {
+    margin: 2px;
+    float: right;
+    padding: 10px;
+    width: 50%;
+    background-color: lavender;
+}
+.bi-pencil {
+    margin-top: -83px;
+    margin-left: 71px;
+}
+.text span {
+    position: absolute;
+	height: 1px;
+	width: 97px;
+    background: black;
+    margin-top: -12px;
+	margin-left: -90px;
+}
+/* .image {
+    float: right;
+    margin-top: -290px;
+} */
+
+.contact {
+    padding: 47px;
+}
+.contact span {
+    position: absolute;
+	height: 1px;
+	width: 97px;
+    background: black;
+}
+p.social {
+    text-align: center;
+    margin-top: 20px;
+  }
+  p.social a {
+    margin: 0 10px 0 0;
+    color: #fff;
+    display: inline-block;
+    width: 38px;
+    height: 38px;
+    border-radius: 19px;
+    line-height: 38px;
+    font-size: 15px;
+    text-align: center;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    vertical-align: bottom;
+  }
+p.social a i {
+    vertical-align: bottom;
+    line-height: 38px;
+  }
+  p.social a.facebook {
+    background-color: #ccc;
+  }
+  /* p.social a.gplus {
+    background-color: #333;
+  } */
+  p.social a.twitter {
+    background-color: #aaa;
+  }
+  p.social a.instagram {
+    background-color: #999;
+  }
+  p.social a.email {
+    background-color: #666;
+  }
+  p.social a.linkedin {
+    background-color: #999;
+  }
+  #copy {
+      text-align: center;
+  }
